@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Ivan Munoz | Backend Developer",
-  description: "Backend Developer specializing in scalable systems, APIs, and microservices architecture",
+  description: "Backend Developer portfolio",
   icons: {
     icon: [
       {
