@@ -196,7 +196,7 @@ export default function Page() {
       seniorRole: "Desarrollador Backend · Epicfarma",
       seniorDesc:
         "Desarrollé múltiples APIs para automatizar la validación de recetas vía WhatsApp y creé una plataforma de gestión financiera para cadenas farmacéuticas, logrando aumentar los clientes suscritos en un 30%. Administré y optimicé dos bases de datos SQL, y desarrollé scripts personalizados que agilizaron el trabajo interno.",
-      backendRole: "Desarrollador Fullstack · Freelance",
+      backendRole: "Desarrollador DevTools · Freelance",
       backendDesc:
         "Diseñé programas para automatizar la extracción y el procesamiento de datos desde diversos sitios web, generando reportes en formato XLS para un análisis más eficiente. También creé bots de Telegram que notifican automáticamente cambios específicos, optimizando tareas repetitivas y mejorando el ritmo de trabajo.",
       viewResume: "Ver Currículum Completo",
