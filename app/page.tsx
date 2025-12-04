@@ -441,15 +441,7 @@ export default function Page() {
                   </div>
                   <div className="sm:col-span-6">
                     <h3 className="font-semibold text-foreground leading-snug mb-2">
-                      <Link
-                        href="#"
-                        className="hover:text-golden-accent transition-all duration-300 inline-flex items-baseline gap-2 group/link"
-                      >
-                        {displayedTexts.seniorRole || t.seniorRole}
-                        <span className="inline-block transition-all duration-300 group-hover/link:translate-x-1 group-hover/link:-translate-y-1 group-hover/link:text-golden-accent">
-                          ↗
-                        </span>
-                      </Link>
+                      {displayedTexts.seniorRole || t.seniorRole}
                     </h3>
 
                     <div className="relative"> 
@@ -491,15 +483,7 @@ export default function Page() {
                   </div>
                   <div className="sm:col-span-6">
                     <h3 className="font-semibold text-foreground leading-snug mb-2">
-                      <Link
-                        href="#"
-                        className="hover:text-golden-accent transition-all duration-300 inline-flex items-baseline gap-2 group/link"
-                      >
-                        {displayedTexts.backendRole || t.backendRole}
-                        <span className="inline-block transition-all duration-300 group-hover/link:translate-x-1 group-hover/link:-translate-y-1 group-hover/link:text-golden-accent">
-                          ↗
-                        </span>
-                      </Link>
+                      {displayedTexts.backendRole || t.backendRole}
                     </h3>
                     <div className="relative"> 
                       <span aria-hidden="true" className="invisible block">
