@@ -143,7 +143,7 @@ export default function Page() {
       navAbout: "ABOUT",
       navExperience: "EXPERIENCE",
       navTechnologies: "TECHNOLOGIES",
-      subtitle: "Backend Developer",
+      subtitle: "Software Developer",
       description: "Building scalable systems and APIs for modern applications.",
       aboutText1:
         "I am a developer passionate about creating scalable and reliable backend systems that power modern applications. I specialize in crafting solid APIs and fine-tuning database performance to make everything run smoothly.",
@@ -151,9 +151,9 @@ export default function Page() {
         "I enjoy learning and continuously progressing, which is why I am currently pursuing a Bachelor’s Degree in Cybersecurity at the University of Palermo to expand my knowledge and strengthen my technical skills.",
       experienceTitle: "Experience",
       present: "Present",
-      seniorRole: "Backend Developer · Epicfarma",
+      seniorRole: "Backend Engineer · Farmafe",
       seniorDesc:
-        "I developed multiple APIs to automate prescription validation via WhatsApp and created a financial management platform for pharmaceutical chains, increasing subscribed customers by 30%. I managed and optimized two collections of SQL databases and developed custom scripts that accelerated internal processes.",
+        "I developed multiple APIs to automate prescription validation via WhatsApp and created a financial management platform for pharmaceutical chains, increasing subscribed customers by 30%. I managed and optimized two collections of SQL databases and developed custom scripts that accelerated internal processes. I was also responsible for coordinating and leading the frontend team, clearly communicating our planned backend architecture and upcoming features so they could effectively prepare for and develop their corresponding tasks.",
       backendRole: "DevTools Developer · Freelance",
       backendDesc:
         "I designed programs to automate data extraction and processing from various websites, generating reports in XLS format for more efficient analysis. I also created Telegram bots that automatically notify specific changes, optimizing repetitive tasks and improving workflow.",
@@ -185,7 +185,7 @@ export default function Page() {
       navAbout: "SOBRE MÍ",
       navExperience: "EXPERIENCIA",
       navTechnologies: "TECNOLOGÍAS",
-      subtitle: "Desarrollador Backend",
+      subtitle: "Software Developer",
       description: "Construyendo sistemas escalables y APIs para aplicaciones modernas.",
       aboutText1:
         "Soy un desarrollador apasionado por crear sistemas backend escalables y confiables que impulsan aplicaciones modernas. Mi experiencia radica en construir APIs robustas y en optimizar el rendimiento de bases de datos.",
@@ -193,9 +193,9 @@ export default function Page() {
         "Disfruto aprender y seguir progresando constantemente, por lo que actualmente estoy cursando una Licenciatura en Ciberseguridad en la Universidad de Palermo para ampliar mis conocimientos y fortalecer mis habilidades técnicas.",
       experienceTitle: "Experiencia",
       present: "Presente",
-      seniorRole: "Desarrollador Backend · Epicfarma",
+      seniorRole: "Backend Engineer · Farmafe",
       seniorDesc:
-        "Desarrollé múltiples APIs para automatizar la validación de recetas vía WhatsApp y creé una plataforma de gestión financiera para cadenas farmacéuticas, logrando aumentar los clientes suscritos en un 30%. Administré y optimicé dos bases de datos SQL, y desarrollé scripts personalizados que agilizaron el trabajo interno.",
+        "Desarrollé múltiples APIs para automatizar la validación de recetas vía WhatsApp y creé una plataforma de gestión financiera para cadenas farmacéuticas, logrando aumentar los clientes suscritos en un 30%. Administré y optimicé dos bases de datos SQL, y desarrollé scripts personalizados que agilizaron el trabajo interno. También era responsable de coordinar y liderar al equipo de frontend, comunicando claramente nuestra arquitectura backend planificada y las próximas funcionalidades para que pudieran prepararse y desarrollar eficazmente sus tareas correspondientes.",
       backendRole: "Desarrollador DevTools · Freelance",
       backendDesc:
         "Diseñé programas para automatizar la extracción y el procesamiento de datos desde diversos sitios web, generando reportes en formato XLS para un análisis más eficiente. También creé bots de Telegram que notifican automáticamente cambios específicos, optimizando tareas repetitivas y mejorando el ritmo de trabajo.",
