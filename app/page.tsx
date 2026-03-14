@@ -578,6 +578,9 @@ export default function Page() {
                     <span className="px-3 py-1.5 text-sm font-medium bg-golden-accent text-golden-dark rounded-full transition-all duration-300 hover:scale-110 hover:shadow-lg">
                       PostgreSQL
                     </span>
+                    <span className="px-3 py-1.5 text-sm font-medium bg-golden-accent text-golden-dark rounded-full transition-all duration-300 hover:scale-110 hover:shadow-lg">
+                      Redis
+                    </span>
                   </div>
                 </div>
 
